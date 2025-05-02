@@ -1,6 +1,6 @@
 :root {
-  --primary: #4a6fa5;
-  --secondary: #37468b;
+  --primary: rgb(130, 184, 30);
+  --secondary: #942525;
   --light: #e5eef5;
   --dark: #333;
 }
@@ -80,15 +80,15 @@ nav a:hover {
 }
 
 .btn:hover {
-  background-color: #37468b;
+  background-color: #942525;
 }
 
 .btn-primary {
-  background-color: #37468b;
+  background-color: #942525;
 }
 
 .btn-primary:hover {
-  background-color: #37468b;
+  background-color: #942525;
 }
 
 .home-container {
